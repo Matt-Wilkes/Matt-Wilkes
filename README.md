@@ -15,6 +15,7 @@
 <p>
   <a href="https://linkedin.com/in/wilkesmatt" target="blank"> <img align="center" src="assets/LinkedIn-Logos/LI-In-Bug.png" alt="wilkesmatt" height="30rem" width="40rem" /></a>
   <a href="https://www.leetcode.com/mattwilkes90" target="blank"><img align="center" src="assets/LeetCode_logo_black.png" alt="mattwilkes90" height="40rem" width="40rem" /></a>
+  <a href="https://www.codewars.com/users/Mattackata" target="blank"><img align="center" src="https://www.codewars.com/users/Mattackata/badges/large" alt="mattwilkes90" height="40rem" width="auto" /></a>
 </p>
 
 
