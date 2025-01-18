@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on anything that makes the world a better place 😉, language learning apps, something that will upset Elon.
 - 🤔 I’m looking for help with Software Developer opportunities! 
 - 💬 Ask me about Javascript, Python, Agile Development, E-Commerce, 
-- 📫 How to reach me: <a href="mailto:mattwilkesdev@gmail.com?subject=I%20Found%20you%20on%20Github&body=Hi%20Matt,"> 
+- 📫 How to reach me: <a href="mailto:matthew.wilkes90@gmail.com?subject=I%20Found%20you%20on%20Github&body=Hi%20Matt,"> 
       Email me
    </a>
 - 😄 Pronouns: He/Him
