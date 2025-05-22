@@ -2,7 +2,7 @@
 <h3 style="text-align: center;">Full-Stack Software Developer in London, Learning Japanese, Forever battling Tupperware</h3>
 
 - 🔭 I’m currently working on [A chrome extension to hide distracting tabs](https://github.com/Matt-Wilkes/simple-chrome-extension)
-- 🌱 I’m currently learning **Typescript, React Native, Deno, Algorithms**
+- 🌱 I’m currently learning **GCP Cloud Dev Ops/SRE**
 - 👯 I’m looking to collaborate on anything that makes the world a better place 😉, language learning apps, something that will upset Elon.
 - 🤔 I’m looking for help with Software Developer opportunities! 
 - 💬 Ask me about Javascript, Python, Agile Development, E-Commerce, 
